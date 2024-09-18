@@ -1,3 +1,7 @@
+for trainned model go to:-https://huggingface.co/spaces/rajsingh22/dog_breeds_identification
+
+
+
 Introduction to TensorFlow, Deep Learning and Transfer Learning (work in progress)
 Project: Dog Vision 🐶👁 - Using computer vision to classify dog photos into different breeds.
 Goals: Learn TensorFlow, deep learning and transfer learning, beat the original research paper results (22% accuracy).
